@@ -40,10 +40,21 @@ Cloud Technologies
   * Key Vaults
   * App Services
 * Firebase / Google
+  * Authentication / Authorization 
 * AWS
 
 
+## Notable Projects
 
+* [PSECU.com](https://www.psecu.com)
+* [COOP](https://www.cudollar.org)
+* [PSECU Digital Banking](https://www.digital.psecu.com) -- assist with features and maintenance
+* LGMG - Mobile Application for Warehouse Management
+
+## Contact Me
+
+* Email - jac59155@gmail.com
+* Location - Harrisburg, PA
 
 <!--
 **ProductMangos/ProductMangos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
